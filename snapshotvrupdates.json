@@ -3,7 +3,7 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": " \t1948990",
+        "UpdateSourceData": "1948990",
         "UpdateSourceArgs": "1133580",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
