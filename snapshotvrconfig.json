@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "SnapshotVR",
+        "Category": "Server Settings",
+        "Description": "The name displayed in the server browser.",
+        "Keywords": "snapshotvr",
+        "FieldName": "roomname",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "roomname",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "AMP Powered Server",
+        "Placeholder": "AMP Powered Server",
+        "Suffix": "ServerName",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

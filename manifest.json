@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["Maikel1990"],
-	"origin": "https://github.com/Maikel1990/AMPTemplates.git",
-	"url": "https://github.com/Maikel1990/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "c142f5a2-5177-4f32-88ac-8db5ebbb0b27",
+    "authors": [
+        "Maikel1990"
+    ],
+    "origin": "https://github.com/Maikel1990/AMPTemplates.git",
+    "url": "https://github.com/Maikel1990/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Maikel1990"
 }
