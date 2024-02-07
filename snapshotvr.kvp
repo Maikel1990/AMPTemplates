@@ -1,7 +1,7 @@
 Meta.DisplayName=SnapshotVR
 Meta.Description=Snapshot VR Dedicated Server
 Meta.Arch=x86_64
-Meta.Author=Maikel1990 - Made with AMP Config Generator
+Meta.Author=Maikel1990
 Meta.URL=https://brief-cornflower-f79.notion.site/Dedicated-Servers-77187d2b315e4883ae12b1432ea96d71
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
